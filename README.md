@@ -16,9 +16,9 @@ A Pokédex é uma aplicação web que permite visualizar informações sobre Pok
 
 Os principais arquivos da aplicação estão organizados na pasta Estrutura-ProjetoWeb1:
 
-* index.html: responsável pela estrutura da aplicação.
-* style.css: responsável pela aparência e estilização.
-* app.js: responsável pelas funcionalidades e interações.
+* **index.html:** responsável pela estrutura da aplicação.
+* **style.css:** responsável pela aparência e estilização.
+* **app.js:** responsável pelas funcionalidades e interações.
 
 **Como executar**
 
